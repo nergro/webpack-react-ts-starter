@@ -1,0 +1,1 @@
+## Starter project for react with typescript configured with webpack
